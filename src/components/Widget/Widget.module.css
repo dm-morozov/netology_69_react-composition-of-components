@@ -1,0 +1,10 @@
+.widget {
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.widget h5 {
+  margin-bottom: 0.5rem;
+  font-size: large;
+}

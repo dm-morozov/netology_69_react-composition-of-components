@@ -765,6 +765,11 @@ baseline-browser-mapping@^2.8.9:
   resolved "https://registry.yarnpkg.com/baseline-browser-mapping/-/baseline-browser-mapping-2.8.17.tgz#85aff3f7dd6326ea25b77ce834b96bb698545dc6"
   integrity sha512-j5zJcx6golJYTG6c05LUZ3Z8Gi+M62zRT/ycz4Xq4iCOdpcxwg7ngEYD4KA0eWZC7U17qh/Smq8bYbACJ0ipBA==
 
+bootstrap@^5.3.8:
+  version "5.3.8"
+  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-5.3.8.tgz#6401a10057a22752d21f4e19055508980656aeed"
+  integrity sha512-HP1SZDqaLDPwsNiqRqi5NcP0SSXciX2s9E+RyqJIIqGo+vJeN5AJVM98CXmW/Wux0nQ5L7jeWUdplCEf0Ee+tg==
+
 brace-expansion@^1.1.7:
   version "1.1.12"
   resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-1.1.12.tgz#ab9b454466e5a8cc3a187beaad580412a9c5b843"
