@@ -9,6 +9,10 @@
 
 ---
 
+[Посетить сайт проекта](https://dm-morozov.github.io/netology_69_react-composition-of-components/)
+
+---
+
 ## 📧 Контакты
 
 Если возникнут вопросы, пишите:
