@@ -1,8 +1,5 @@
 import type { FC, ReactNode } from 'react'
-interface CurrencyRatesProps {
-  children: ReactNode
-  // ...
-}
+import type { CurrencyRatesProps } from '../types/news'
 
 /**
  * Отображает список курсов валют. Принимает массив курсов через props.
